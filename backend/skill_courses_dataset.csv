@@ -1,0 +1,34 @@
+Skill,Course_Name,Platform,URL,Duration,Level
+Python,Python for Everybody,Coursera,https://www.coursera.org/specializations/python,3 months,Beginner
+Python,Complete Python Bootcamp,Udemy,https://www.udemy.com/course/complete-python-bootcamp,30 hours,Beginner
+Machine Learning,Machine Learning Specialization,Coursera,https://www.coursera.org/specializations/machine-learning-introduction,3 months,Intermediate
+Machine Learning,Hands-On Machine Learning with Scikit-Learn,O'Reilly,https://www.oreilly.com/library/view/hands-on-machine-learning,Book,Intermediate
+Deep Learning,Deep Learning Specialization,Coursera,https://www.coursera.org/specializations/deep-learning,5 months,Advanced
+TensorFlow,TensorFlow Developer Certificate,Google,https://www.tensorflow.org/certificate,Variable,Intermediate
+SQL,SQL for Data Science,Coursera,https://www.coursera.org/learn/sql-for-data-science,4 weeks,Beginner
+SQL,The Complete SQL Bootcamp,Udemy,https://www.udemy.com/course/the-complete-sql-bootcamp,9 hours,Beginner
+ReactJS,React - The Complete Guide,Udemy,https://www.udemy.com/course/react-the-complete-guide-incl-redux,48 hours,Intermediate
+ReactJS,Full Stack Open,University of Helsinki,https://fullstackopen.com,3 months,Intermediate
+JavaScript,JavaScript Algorithms and Data Structures,freeCodeCamp,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures,300 hours,Beginner
+HTML,Responsive Web Design,freeCodeCamp,https://www.freecodecamp.org/learn/2022/responsive-web-design,300 hours,Beginner
+CSS,CSS - The Complete Guide,Udemy,https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass,22 hours,Beginner
+AWS,AWS Certified Solutions Architect,AWS,https://aws.amazon.com/certification/certified-solutions-architect-associate,Variable,Intermediate
+AWS,Ultimate AWS Certified Solutions Architect,Udemy,https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03,27 hours,Intermediate
+Docker,Docker Mastery,Udemy,https://www.udemy.com/course/docker-mastery,19 hours,Intermediate
+Kubernetes,Kubernetes for the Absolute Beginners,Udemy,https://www.udemy.com/course/learn-kubernetes,6 hours,Beginner
+Networking,CompTIA Network+ Certification,CompTIA,https://www.comptia.org/certifications/network,Variable,Beginner
+Ethical Hacking,Practical Ethical Hacking,TCM Security,https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course,25 hours,Intermediate
+Java,Java Programming Masterclass,Udemy,https://www.udemy.com/course/java-the-complete-java-developer-course,80 hours,Beginner
+Node.js,The Complete Node.js Developer Course,Udemy,https://www.udemy.com/course/the-complete-nodejs-developer-course-2,35 hours,Intermediate
+Data Visualization,Data Visualization with Python,Coursera,https://www.coursera.org/learn/python-for-data-visualization,4 weeks,Intermediate
+Statistics,Statistics with Python Specialization,Coursera,https://www.coursera.org/specializations/statistics-with-python,5 months,Intermediate
+NLP,Natural Language Processing Specialization,Coursera,https://www.coursera.org/specializations/natural-language-processing,4 months,Advanced
+Flutter,Flutter & Dart - The Complete Guide,Udemy,https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps,42 hours,Intermediate
+Solidity,Ethereum and Solidity: The Complete Developer's Guide,Udemy,https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide,24 hours,Intermediate
+Linux,Linux Command Line Basics,Udemy,https://www.udemy.com/course/linux-command-line-volume1,5 hours,Beginner
+Figma,Figma UI UX Design Essentials,Udemy,https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course,12 hours,Beginner
+NumPy,NumPy and Pandas for Data Analysis,DataCamp,https://www.datacamp.com/courses/numpy-and-pandas,4 hours,Beginner
+Pandas,Data Manipulation with Pandas,DataCamp,https://www.datacamp.com/courses/data-manipulation-with-pandas,4 hours,Intermediate
+Scikit-learn,Machine Learning with Scikit-Learn,DataCamp,https://www.datacamp.com/courses/supervised-learning-with-scikit-learn,4 hours,Intermediate
+TypeScript,Understanding TypeScript,Udemy,https://www.udemy.com/course/understanding-typescript,22 hours,Intermediate
+C++,C++ Nanodegree,Udacity,https://www.udacity.com/course/c-plus-plus-nanodegree--nd213,4 months,Intermediate

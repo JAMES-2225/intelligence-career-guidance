@@ -1,0 +1,21 @@
+Career,Domain,Skills,Interest,Description,Avg_Salary,Job_Demand
+Data Scientist,Data Science,Python Machine Learning SQL Statistics Data Visualization NumPy Pandas,Data Science,Analyzes complex data to extract insights and build predictive models,95000,Very High
+Data Analyst,Data Science,SQL Excel Python Data Visualization Statistics Power BI Tableau,Data Science,Processes and interprets data to help organizations make better decisions,70000,High
+Machine Learning Engineer,Artificial Intelligence,Python Machine Learning Deep Learning TensorFlow PyTorch Scikit-learn,Artificial Intelligence,Designs and builds ML systems and models for production environments,110000,Very High
+AI Research Scientist,Artificial Intelligence,Python Deep Learning Mathematics Research NLP Computer Vision,Artificial Intelligence,Conducts research to advance AI and machine learning capabilities,130000,High
+NLP Engineer,Artificial Intelligence,Python NLP NLTK SpaCy Transformers BERT Deep Learning,Artificial Intelligence,Builds systems that understand and generate human language,105000,High
+Frontend Developer,Web Development,ReactJS HTML CSS JavaScript TypeScript Redux,Web Development,Creates visual and interactive elements of websites and web apps,85000,High
+Backend Developer,Web Development,Python Node.js Java Spring SQL REST API Docker,Web Development,Builds server-side logic and APIs for web applications,90000,High
+Full Stack Developer,Web Development,ReactJS Node.js Python SQL HTML CSS JavaScript,Web Development,Develops both frontend and backend components of web applications,95000,Very High
+UI/UX Designer,Web Development,Figma Adobe XD CSS HTML Prototyping User Research,Web Development,Designs intuitive and visually appealing user experiences,80000,High
+Cloud Engineer,Cloud Computing,AWS Azure Linux Networking Docker Kubernetes Terraform,Cloud Computing,Designs and manages cloud infrastructure and services,100000,Very High
+DevOps Engineer,Cloud Computing,Docker Kubernetes Jenkins CI/CD Linux Ansible Terraform,Cloud Computing,Bridges development and operations for faster and more reliable deployments,105000,Very High
+Cloud Architect,Cloud Computing,AWS Azure GCP Solution Design Security Networking,Cloud Computing,Plans and oversees cloud infrastructure strategy and architecture,135000,High
+Cyber Security Analyst,Cyber Security,Networking Ethical Hacking Firewalls SIEM Vulnerability Assessment,Cyber Security,Protects systems and networks from digital attacks and unauthorized access,90000,Very High
+Penetration Tester,Cyber Security,Ethical Hacking Python Networking Kali Linux OWASP,Cyber Security,Tests systems for vulnerabilities by attempting to exploit them ethically,100000,High
+Security Engineer,Cyber Security,Networking Cryptography Python Security Protocols SIEM,Cyber Security,Designs and implements security systems to protect organizational assets,115000,High
+Software Developer,Software Development,Java Python Problem Solving Data Structures Algorithms OOP,Software Development,Writes and maintains software applications and systems,90000,Very High
+Mobile Developer,Software Development,Flutter React Native Swift Kotlin Java Android iOS,Software Development,Builds mobile applications for iOS and Android platforms,95000,Very High
+Embedded Systems Engineer,Software Development,C C++ Microcontrollers RTOS Hardware Protocols,Software Development,Develops software for hardware devices and embedded systems,85000,High
+Database Administrator,Data Science,SQL MySQL PostgreSQL MongoDB Database Design Optimization,Data Science,Manages and maintains database systems ensuring reliability and performance,80000,High
+Blockchain Developer,Software Development,Solidity Ethereum JavaScript Smart Contracts Web3,Software Development,Builds decentralized applications and blockchain-based systems,115000,High
