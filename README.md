@@ -255,8 +255,7 @@ List courses filtered by skill (optional query param).
 ## Contributors
 
 | Name | Roll Number |
-|---|---|
-| Naveen Chander G | 312423205148 |
+
 | Panimaya James R | 312423205158 |
 
 **Supervisor:** Mrs. P. Saranya M.E (Ph.D), Assistant Professor  
